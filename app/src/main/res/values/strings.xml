@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="home">home</string>
+    <string name="search">search</string>
+    <string name="profile">profile</string>
+    <string name="settings">settings</string>
+    <string name="todo">TODO</string>
+</resources>
